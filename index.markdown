@@ -23,9 +23,6 @@ layout: home
 - *libpaillier-with-constant-time-dec:* Paillier encryption with constant-time decryption. [\[Code\]](https://github.com/oblivious-file-sharing/libpaillier-with-constant-time-dec)
   * Modified from [libpaillier](http://acsc.cs.utexas.edu/libpaillier/).
 
-### Protocol implementation:
-- To be released.
-
 ### Acknowledgment:
 - This work has been supported by the NSF CISE Expeditions Award CCF-1730628, Jim Gray Fellowship, J.
 K. Zee Fellowship, as well as gifts from the Sloan Foundation, Bakar, Okawa, and Hellman Fellows Fund,
